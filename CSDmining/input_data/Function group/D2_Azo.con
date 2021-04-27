@@ -1,0 +1,11 @@
+T1 *CONN
+NFRAG 1
+ELDEF DD = C HD
+AT1 N 2                :XY  105  72
+AT2 N 2                :XY  165  72
+AT3 DD 1                :XY  225  72
+AT4 DD 1                :XY  45  72
+BO 1 4 1 
+BO 1 2 2 
+BO 2 3 1 
+END

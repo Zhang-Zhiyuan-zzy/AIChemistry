@@ -1,0 +1,7 @@
+T1 *CONN
+NFRAG 1
+ELDEF QF = B C N O S P Si
+AT1 QF 1                :XY  45  72
+AT2 I 1                :XY  105  72
+BO 1 2 1 
+END

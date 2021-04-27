@@ -1,0 +1,7 @@
+T1 *CONN
+NFRAG 1
+ELDEF DD = C HD
+AT1 DD 1                :XY  189  260
+AT2 S 1                :XY  249  260
+BO 1 2 2 
+END
